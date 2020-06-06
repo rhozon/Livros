@@ -1,6 +1,9 @@
 # Livros de Econometria
 
 Biblioteca de livros de econometria.
+
+![Amo econometria](whatiseconometrics.png)
+
 Lista de autores
 
 - Gujarati
@@ -9,6 +12,3 @@ Lista de autores
 - Sheppard
 - Barreto, Howland
 - Agung
-
-![Amo econometria](whatiseconometrics.png)
-
